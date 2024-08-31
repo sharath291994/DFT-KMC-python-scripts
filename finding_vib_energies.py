@@ -6,10 +6,8 @@ Created on Fri Mar  8 14:22:20 2024
 """
 
 import os
-
+import matplotlib.pyplot as plt
 import numpy as np
-
-  
 
 ###########Vib energies array############################
 
